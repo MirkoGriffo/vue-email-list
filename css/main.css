@@ -1,0 +1,9 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+ul li {
+  list-style: none;
+  padding: 5px;
+}
